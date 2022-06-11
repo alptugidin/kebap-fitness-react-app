@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Error: Unable to resolve module ./index.android from C:\Users\alptu_7\Desktop\rn\app/.: <br><br>None of these files exist:<br> &nbsp;* index.android(.native|.android.js|.native.js|.js|.android.json|.native.json|.json|.android.ts|.native.ts|.ts|.android.tsx|.native.tsx|.tsx)<br> &nbsp;* index.android\index(.native|.android.js|.native.js|.js|.android.json|.native.json|.json|.android.ts|.native.ts|.ts|.android.tsx|.native.tsx|.tsx)<br> &nbsp; &nbsp;at ModuleResolver.resolveDependency (C:\Users\alptu_7\Desktop\rn\app\node_modules\metro\src\node-haste\DependencyGraph\ModuleResolution.js:136:15)<br> &nbsp; &nbsp;at DependencyGraph.resolveDependency (C:\Users\alptu_7\Desktop\rn\app\node_modules\metro\src\node-haste\DependencyGraph.js:231:43)<br> &nbsp; &nbsp;at C:\Users\alptu_7\Desktop\rn\app\node_modules\metro\src\lib\transformHelpers.js:129:24<br> &nbsp; &nbsp;at Server._resolveRelativePath (C:\Users\alptu_7\Desktop\rn\app\node_modules\metro\src\Server.js:1107:12)<br> &nbsp; &nbsp;at async Server.requestProcessor [as _processBundleRequest] (C:\Users\alptu_7\Desktop\rn\app\node_modules\metro\src\Server.js:450:37)<br> &nbsp; &nbsp;at async Server._processRequest (C:\Users\alptu_7\Desktop\rn\app\node_modules\metro\src\Server.js:406:9)</pre>
+</body>
+</html>
